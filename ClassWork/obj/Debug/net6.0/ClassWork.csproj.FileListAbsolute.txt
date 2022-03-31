@@ -1,0 +1,15 @@
+F:\VS pr\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.exe
+F:\VS pr\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.deps.json
+F:\VS pr\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.runtimeconfig.json
+F:\VS pr\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.dll
+F:\VS pr\ClassWork\ClassWork\bin\Debug\net6.0\ClassWork.pdb
+F:\VS pr\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.csproj.AssemblyReference.cache
+F:\VS pr\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS pr\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.AssemblyInfoInputs.cache
+F:\VS pr\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.AssemblyInfo.cs
+F:\VS pr\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.csproj.CoreCompileInputs.cache
+F:\VS pr\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.dll
+F:\VS pr\ClassWork\ClassWork\obj\Debug\net6.0\refint\ClassWork.dll
+F:\VS pr\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.pdb
+F:\VS pr\ClassWork\ClassWork\obj\Debug\net6.0\ClassWork.genruntimeconfig.cache
+F:\VS pr\ClassWork\ClassWork\obj\Debug\net6.0\ref\ClassWork.dll
